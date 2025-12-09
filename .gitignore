@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Variables d'environnement
+.env
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/

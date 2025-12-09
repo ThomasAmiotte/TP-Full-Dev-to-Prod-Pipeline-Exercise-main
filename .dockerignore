@@ -1,0 +1,11 @@
+notepad .dockerignore
+
+venv/
+__pycache__/
+*.pyc
+.env
+.env.production
+.git/
+.gitignore
+tests/
+*.md
